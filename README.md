@@ -121,7 +121,7 @@ GPU | min 2Gb
 ![Github Logo](https://datawisdomx.com/wp-content/uploads/2019/04/anacondaspyder.jpg)
 
 
-
+## Thanks to HacksOverflow Hackathon for building talents and Innovations by Organising such events !
 # Project Done by : [Venkata Sreeram](https://linkedin.com/in/venkata-sreeram)
 
 
